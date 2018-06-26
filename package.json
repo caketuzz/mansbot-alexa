@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/wapcamer/mansbot-alexa/issues"
   },
-  "homepage": "https://github.com/wapcamer/mansbot-alexa#readme"
+  "homepage": "https://github.com/wapcamer/mansbot-alexa#readme",
+  "engines": {
+    "node": "8.x"
+  }
 }
